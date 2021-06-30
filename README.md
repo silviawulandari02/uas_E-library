@@ -10,5 +10,3 @@ https://www.codekop.com/read/source-code-sistem-informasi-perpustakaan-dengan-co
 ## Contributors
 <a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
 
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
-
